@@ -9,3 +9,11 @@
 body {
   background-color: $fog;
 }
+
+.warning {
+  color: orange;
+  border: 2px solid $op-cary;
+  font-size: 26px;
+  border-radius: 6px;
+  background-color: $cary;
+}

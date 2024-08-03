@@ -1,0 +1,20 @@
+/* Colors */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2f323f;
+}
+
+.warning {
+  color: orange;
+  border: 2px solid rgba(207, 172, 86, 0.6745098039);
+  font-size: 26px;
+  border-radius: 6px;
+  background-color: #cfac56;
+}
+
+/*# sourceMappingURL=index.css.map */
